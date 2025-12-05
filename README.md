@@ -15,7 +15,7 @@ A simple yet effective architecture for text classification includes -
 Output Layer: A single neuron with a sigmoid activation function, producing a probability between 0 and 1 (positive vs. negative).
 
 3. Training Process
-Loss Function: Binary cross‑entropy is used since it measures the difference between predicted probabilities and actual labels.
+  Loss Function: Binary cross‑entropy is used since it measures the difference between predicted probabilities and actual labels.
 Optimizer: Algorithms like Adam or RMSprop adjust weights efficiently.
 Evaluation Metrics: Accuracy is the most common metric, but precision, recall, and F1‑score provide deeper insights into performance.
 
